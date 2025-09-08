@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist and Statistician
 
 ### Technical Skills: Python, R, SQL, Tableau, Excel
 
