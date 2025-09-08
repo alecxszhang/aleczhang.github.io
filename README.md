@@ -31,9 +31,13 @@ Yonsei University (2025)
 - Optimized performance and functionality of the studio database to reduce runtime by 90%
 
 ## Projects
-### UFC Data Visualization
 
-### NFL Pre-Snap Predictions
+### [Air Bnb Price Prediction](https://github.com/alecxszhang/airbnb_price_prediction.git)
+
+### [NFL Kicking Variation Analysis](https://github.com/alecxszhang/NFL_Kicking_Analysis.git)
+
+### [UFC Data Visualization](https://github.com/alecxszhang/UFC-Data-Visualization.git)
+
 
 ## Publications and Posters
 
