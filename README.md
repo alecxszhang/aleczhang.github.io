@@ -5,7 +5,9 @@
 ### Education
 
 Northwestern University: Data Science and Statistics (2027)
+
 Kellogg Undergraduate Certificate of Financial Economics (2026)
+
 Yonsei University (2025)
 
 ## Work Experience
